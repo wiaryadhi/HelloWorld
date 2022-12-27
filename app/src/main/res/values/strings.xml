@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="john_domain_com">john@domain.com</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="button">Login</string>
+    <string name="john_password">johnpassword</string>
+    <string name="logo_bcafinance">logo bcafinance</string>
 </resources>
