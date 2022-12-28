@@ -8,4 +8,5 @@
     <string name="button">Login</string>
     <string name="john_password">johnpassword</string>
     <string name="logo_bcafinance">logo bcafinance</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_fusce_fermentum_felis_id_sollicitudin_volutpat_leo_magna_rutrum_orci_ut_laoreet_mauris_diam_at_metus_fusce_condimentum_justo_vel_magna_scelerisque_quis_egestas_arcu_placerat">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, felis id sollicitudin volutpat, leo magna rutrum orci, ut laoreet mauris diam at metus. Fusce condimentum justo vel magna scelerisque, quis egestas arcu placerat.</string>
 </resources>
