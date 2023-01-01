@@ -32,14 +32,14 @@ class Portofolio : AppCompatActivity() {
 
         imgCall.setOnClickListener() {
             val openCall = Intent(Intent.ACTION_DIAL).apply {
-                data = Uri.parse("tel:08222222222")
+                data = Uri.parse("tel:081338942027")
             }
             startActivity(openCall)
         }
 
         imgEmail.setOnClickListener() {
             val addresses: Array<String> =
-                arrayOf("sandhyakmal31@gmail.com", "sandyakmal21@gmail.com")
+                arrayOf("wiaryadhi@gmail.com", "gede.aryadi@juaracoding.com")
             val subject = "Android Studio"
             val openEmail = Intent(Intent.ACTION_SEND).apply {
                 type = "*/*"
